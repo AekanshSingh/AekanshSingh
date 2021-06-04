@@ -45,3 +45,7 @@ And some of my Machine Learning Projects viz :
 * [CustomerSegmentation](https://github.com/AekanshSingh/DataScienceProjects/tree/main/CustomerSegmentation)
 
 
+
+
+<!-- ![Aekansh's Github Profile Views](https://komarev.com/ghpvc/?username=ashutosh1919&color=blueviolet)  -->
+[![Aekansh's Github Stats](https://github-readme-stats.vercel.app/api?username=aekanshsingh&show_icons=true&count_private=true)](https://github.com/aekanshsingh/github-readme-stats)  
