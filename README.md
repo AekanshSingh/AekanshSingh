@@ -1,16 +1,47 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Aekansh Singh</h1>
+<h3 align="center">A Machine Learning, Deep Learning & Data Science enthusiast</h3>
 
-<!--
-**AekanshSingh/AekanshSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Computer Vision and NLP**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [https://github.com/AekanshSingh](https://github.com/AekanshSingh)
+
+- 💬 Ask me about **Java,Python, Machine learning, Deep Learning, Data Science**
+
+- 📫 How to reach me **aekansh53@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/aekansh-singh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aekansh-singh" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/aekanshsingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="aekansh-singh" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100009469935585" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="aekansh-singh" height="30" width="40" /></a>
+<a href="https://www.instagram.com/__aekansh___/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aekansh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aekansh53" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="aekansh" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/aek123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="aekansh" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<br />
+<br />
+<h3><i> I have done many projects regarding Machine Learning & Deep Learning </i></h3>
+<h3><i> & I've mentioned some specific projects below : </i></h3> 
+<br />
+
+You can check my end-to-end projects : 
+* [Diabetes Prediction using ML with Flask](https://github.com/AekanshSingh/Machine-Learning-with-Flask/tree/main/Diabetes%20Prediction%20using%20ML%20with%20Flask) 
+* [Image Segmentation ML Flask Web App](https://github.com/AekanshSingh/Machine-Learning-with-Flask/tree/main/Image%20Segmentation)
+* [Sentiment Analysis ML Flask Web App](https://github.com/AekanshSingh/Machine-Learning-with-Flask/tree/main/Sentiment%20Analysis)
+
+OpenCV Projects :
+ * []()
+ * []()
+
+And some of my Machine Learning Projects viz :
+
+* [Predict future sales of product](https://github.com/AekanshSingh/DataScienceProjects/tree/main/Predict%20future%20sales%20of%20product)
+* [Credit-Card-Fraud-Detection](https://github.com/AekanshSingh/DataScienceProjects/tree/main/Beginner/CreditCardFraudDetection)
+* [CustomerSegmentation](https://github.com/AekanshSingh/DataScienceProjects/tree/main/CustomerSegmentation)
+
+
