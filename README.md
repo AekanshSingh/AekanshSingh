@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Computer Vision and NLP**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AekanshSingh](https://github.com/AekanshSingh)
+- 👨‍💻 All of my projects are available here
 
 - 💬 Ask me about **Java,Python, Machine learning, Deep Learning, Data Science**
 
