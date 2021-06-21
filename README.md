@@ -25,7 +25,11 @@
 
 <br />
 <br />
-<h3><i> I have done many projects regarding Machine Learning & Deep Learning </i></h3>
+<a href="https://github.com/AekanshSingh">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AekanshSingh&layout=compact&show_icons=true&theme=buefy" />
+</a>
+
+<h3><i> I have done projects regarding Machine Learning & Deep Learning </i></h3>
 <h3><i> & I've mentioned some specific projects below : </i></h3> 
 <br />
 
