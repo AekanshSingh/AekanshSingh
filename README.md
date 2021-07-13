@@ -38,9 +38,6 @@ You can check my end-to-end projects :
 * [Image Segmentation ML Flask Web App](https://github.com/AekanshSingh/Machine-Learning-with-Flask/tree/main/Image%20Segmentation)
 * [Sentiment Analysis ML Flask Web App](https://github.com/AekanshSingh/Machine-Learning-with-Flask/tree/main/Sentiment%20Analysis)
 
-OpenCV Projects :
- * []()
- * []()
 
 And some of my Machine Learning Projects viz :
 
