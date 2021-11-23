@@ -18,6 +18,7 @@
 <a href="https://www.instagram.com/__aekansh___/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aekansh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aekansh53" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="aekansh" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aek123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="aekansh" height="30" width="40" /></a>
+<a href="https://leetcode.com/Aekansh_07/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="aekansh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
